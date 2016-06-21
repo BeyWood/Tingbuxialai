@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0510"
+   version = "1.8">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F0D0EDAD1CE038020052173B"
+               BuildableName = "Tingbuxialai.app"
+               BlueprintName = "tingbuxialai"
+               ReferencedContainer = "container:Tingbuxialai.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Release">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F0D0EDCE1CE038020052173B"
+               BuildableName = "TingbuxialaiTests.xctest"
+               BlueprintName = "TingbuxialaiTests"
+               ReferencedContainer = "container:Tingbuxialai.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F0D0EDAD1CE038020052173B"
+            BuildableName = "Tingbuxialai.app"
+            BlueprintName = "tingbuxialai"
+            ReferencedContainer = "container:Tingbuxialai.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F0D0EDAD1CE038020052173B"
+            BuildableName = "Tingbuxialai.app"
+            BlueprintName = "tingbuxialai"
+            ReferencedContainer = "container:Tingbuxialai.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F0D0EDAD1CE038020052173B"
+            BuildableName = "Tingbuxialai.app"
+            BlueprintName = "tingbuxialai"
+            ReferencedContainer = "container:Tingbuxialai.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Release">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      customArchiveName = "&#x8dd1;&#x8dd1;&#x505c;&#x4e0d;&#x4e0b;&#x6765;"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
